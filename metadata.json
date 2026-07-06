@@ -1,0 +1,6 @@
+{
+  "name": "Taiwan History Sort",
+  "description": "A drag-and-drop game for sorting Taiwan history events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
